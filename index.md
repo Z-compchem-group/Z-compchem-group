@@ -3,7 +3,7 @@
 
 # Z-compchem-group's Website
 
-An engaging 1-3 sentence description of your lab.
+Computational chemistry group at Fudan University.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research is focused on computational chemistry and AI for chemistry.
 
 {%
   include button.html
