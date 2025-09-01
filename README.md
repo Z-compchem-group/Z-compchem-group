@@ -6,5 +6,3 @@
   # Z-compchem-group's Website
 
   Visit **[z-compchem-group.github.io/Z-compchem-group](https://z-compchem-group.github.io/Z-compchem-group)** 🚀
-
-  _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
